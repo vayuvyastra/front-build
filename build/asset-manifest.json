@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f54bf655.css",
+    "main.js": "/static/js/main.1f56bd88.js",
+    "static/media/club-photo-2.jpg": "/static/media/club-photo-2.6a47db908d187f64d017.jpg",
+    "static/media/club-photo.jpg": "/static/media/club-photo.32843763213509b6fa32.jpg",
+    "static/media/EuclidCircularBMedium.ttf": "/static/media/EuclidCircularBMedium.da9107f189000fddc6e7.ttf",
+    "static/media/SharpSansBold.otf": "/static/media/SharpSansBold.aa00a9ddc5c9fefd684c.otf",
+    "static/media/SharpSansMedium.otf": "/static/media/SharpSansMedium.def47df9836c7d0ad8e2.otf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f54bf655.css",
+    "static/js/main.1f56bd88.js"
+  ]
+}
